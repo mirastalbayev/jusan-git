@@ -1,1 +1,1 @@
-echo "Miras Talbayev"
+echo "Miras Talbayev."
